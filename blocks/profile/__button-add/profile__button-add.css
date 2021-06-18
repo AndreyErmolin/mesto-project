@@ -12,7 +12,14 @@
 
 @media screen and (max-width: 890px) {
     .profile__button-add {
-        width: 100%
+        width: 90%;
+        margin: auto;
+    }
+}
+@media screen and (max-width: 425px) {
+    .profile__button-add {
+        max-width: 60%;
+        margin: auto;
     }
 }
 

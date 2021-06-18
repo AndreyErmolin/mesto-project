@@ -1,0 +1,4 @@
+.elements__button-like_active {
+    background: no-repeat center url(../../../image/button-like_active.svg);
+    display: none;
+}

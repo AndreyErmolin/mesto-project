@@ -8,17 +8,13 @@
     background-color: black;
     cursor: pointer;
     transition: opacity 1s linear;
+    background: no-repeat center url(../../../image/plus.svg);
 }
+
 
 @media screen and (max-width: 890px) {
     .profile__button-add {
-        width: 90%;
-        margin: auto;
-    }
-}
-@media screen and (max-width: 425px) {
-    .profile__button-add {
-        max-width: 60%;
+        width: 100%;
         margin: auto;
     }
 }

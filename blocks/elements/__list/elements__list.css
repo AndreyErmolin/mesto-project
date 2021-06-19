@@ -1,4 +1,4 @@
-.elements {
+.elements__list {
     display: grid;
     grid-template-columns: repeat(auto-fill , 282px);
     grid-template-rows: repeat(2 , 361px);
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 890px) {
-    .elements {
+    .elements__list {
         margin-top: 36px;
     }
 }

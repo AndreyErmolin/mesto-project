@@ -22,5 +22,7 @@
 @media screen and (max-width: 890px) {
     .popup__button-save {
         width: 238px;
+        font-size: 14px;
+        line-height: 17px;
     }
 }
